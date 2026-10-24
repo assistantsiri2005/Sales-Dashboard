@@ -63,7 +63,7 @@ A dedicated panel displays supervisor names and profile images to give the dashb
 
 - `Sales_Dashboard.pbix` – Power BI dashboard file
 - `Sales_Data.xlsx` – Source dataset, if applicable
-- `Dashboard_Screenshot.png` – Dashboard preview
+- `https://github.com/assistantsiri2005/Sales-Dashboard/blob/main/Dashboard.png` – Dashboard preview
 
 ## 🚀 Learning Outcomes
 
