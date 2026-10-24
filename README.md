@@ -61,7 +61,7 @@ A dedicated panel displays supervisor names and profile images to give the dashb
 
 ## 📂 Project Files
 
-- `Sales_Dashboard.pbix` – Power BI dashboard file
+- `https://github.com/assistantsiri2005/Sales-Dashboard/blob/main/sales_data.pbix` – Power BI dashboard file
 - `Sales_Data.xlsx` – Source dataset, if applicable
 - `https://github.com/assistantsiri2005/Sales-Dashboard/blob/main/Dashboard.png` – Dashboard preview
 
